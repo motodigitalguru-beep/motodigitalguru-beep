@@ -28,6 +28,10 @@ About a dozen scheduled jobs running unattended: incoming invoices from the mail
 
 - **Peptide & training tracker** *(in progress)* — personal protocol app: dosing plans, injection-site map, vial inventory, daily check-ins, training log and later Apple Health data. Next.js · Supabase.
 
+## Training: getting teams fit with AI
+
+Hands-on training for teams that want to work with Claude and Claude Code properly, in 1–3 days: Claude chat in daily work, Claude Code (desktop app and VS Code), building agents, and a small coding task. With a before/after test and a certificate of participation.
+
 ## Websites & landing pages
 
 Brand sites and landing pages, designed, built and deployed end to end:
@@ -48,3 +52,8 @@ Claude Code as a small dev team: parallel sessions for frontend and backend, wri
 ## Stack
 
 Python · Go · TypeScript · React · Next.js · Tailwind · FastAPI · Astro · SQLite · Supabase · MCP · Hetzner · Vercel
+
+## Work with me
+
+Small business that wants AI that fits the company, not the other way round? Get in touch via [flow-code-labs.io](https://flow-code-labs.io).
+
