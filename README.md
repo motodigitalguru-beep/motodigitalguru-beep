@@ -1,6 +1,6 @@
 # Hi, I'm Carsten 👋
 
-Solo builder from Germany. I help small businesses — mostly in the trades — put AI to work, and I build and run the systems myself, in production, every day.
+Solo builder from Germany. I help businesses — mostly in the trades — put AI to work, and I build and run the systems myself, in production, every day.
 
 Most of it is built together with Claude Code: apps vibe-coded from idea to production, and autonomous agents that do their work in the background without anyone clicking a button.
 
